@@ -4,3 +4,5 @@ safe: true
 incremental: false
 gist:
   noscript: false
+title: PINkey
+description: Lightweight node.js authentication endpoint
