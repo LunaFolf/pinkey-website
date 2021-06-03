@@ -12,4 +12,4 @@ To be detailed, use PINkey-interface
 
 ## Thanks to
 * js.org - For _(hopefully)_ hosting the pinkey.js.org site.
-* Bezz - For letting me rant in their ear, while I was doing the dev work on the stupid little bugs and issues.
+* AdvMR - the big fat
